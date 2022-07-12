@@ -46,7 +46,6 @@ button:hover{
     margin-left: 27%;
     margin-top: 8%;
     margin-bottom: -2%;
-
   }
 
   /* food price */
@@ -55,7 +54,6 @@ button:hover{
      margin-top: -4.5%;
      /* margin-bottom: -12%; */
      margin-left: 40%;
-
   }
 
 /* food description */
@@ -68,7 +66,44 @@ button:hover{
     width:25rem;
     height:138px;
     text-align: center;
-    border-radius: 12px;
+    border-radius: 6px;
+    border-color: black;
+    border: 8px;
+  }
+
+  #image2{                                                 
+    border: 3px rgb(147, 149, 255) solid;
+    border-color: black;
+    margin-left: 54%;
+    margin-top: -238%;
+    margin-bottom: 10.9%;
+  }
+
+  #peperroni2{
+    font-family: fantasy;
+    color: rgb(255, 255, 255);
+    margin-left: 77%;
+    margin-top: -13.6%;
+    margin-bottom: 20%;
+  }
+
+  #price2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     margin-top: -4.5%;
+     /* margin-bottom: -12%; */
+     margin-left: 90%;
+  }
+
+  #info2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    margin-left: 74%;
+    margin-top: -19.9%;
+    background-color: rgb(255, 217, 0);
+    width:25rem;
+    height:138px;
+    text-align: center;
+    border-radius: 6px;
     border-color: black;
     border: 8px;
   }
